@@ -12,3 +12,6 @@ PowerShell script development for easy management of active directory environmen
 9.21.2022 - Made multiple changes to v1 including switching if statements for switch statements.
             Started working on user validation using loops.
             Setup function to control menu validation.
+            
+            **Found issue when returning to the main menu, error in validation when picking new menu option
+            **Resetup disable user option with new switch/loop layouts
