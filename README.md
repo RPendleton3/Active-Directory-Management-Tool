@@ -8,3 +8,7 @@ PowerShell script development for easy management of active directory environmen
             **Need to add ability to loop specific options instead of complete reset, like if you need to reset 5 passwords to make it easier
             **Change initial if statements to a switch statement for easy expandabaility
             **Setup initial entry of server logon info instead of leaving the credentials saved
+            
+9.21.2022 - Made multiple changes to v1 including switching if statements for switch statements.
+            Started working on user validation using loops.
+            Setup function to control menu validation.
