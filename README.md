@@ -15,3 +15,11 @@ PowerShell script development for easy management of active directory environmen
             
             **Found issue when returning to the main menu, error in validation when picking new menu option
             **Resetup disable user option with new switch/loop layouts
+
+9.22.2022 - Fixed many validation issues throughout the code allowing for proper repeating of options
+            Now reset properly restarts the current objective
+            Return properly returns you to the original menu
+            Readded Disableuser and created Enableuser options with full functionality
+            
+            **Want to create a objective to create csv files of information like account lockout, last login etc
+            **Find a way to whenever a user inputs a username that isnt found instead of a default powershell error, place a                   custom error, validation to the max
