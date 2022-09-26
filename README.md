@@ -22,4 +22,13 @@ PowerShell script development for easy management of active directory environmen
             Readded Disableuser and created Enableuser options with full functionality
             
             **Want to create a objective to create csv files of information like account lockout, last login etc
-            **Find a way to whenever a user inputs a username that isnt found instead of a default powershell error, place a                   custom error, validation to the max
+            **Find a way to whenever a user inputs a username that isnt found instead of a default powershell error, place a custom error, validation to the max
+
+9.26.2022 - Setup additional option to add new domain user account.
+            Found many issues with new code handling valadation from multiple user inputs at the same time. Fixed
+            Found valadation issue with main menu where if you type exit it alerts you the value was incorrect. Fixed
+            Spent alot of time theorizing and adjusting setups for report function. Export-CSV works well but formatting is bad.
+            
+            **Continue working with export csv and report creation
+            **Find a way to whenever a user inputs a username that isnt found instead of a default powershell error, place a custom error, validation to the max
+            **Code getting way to long and alot of repeats, work on converting sections into functions for ease of redundancy
