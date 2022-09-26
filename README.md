@@ -32,3 +32,4 @@ PowerShell script development for easy management of active directory environmen
             **Continue working with export csv and report creation
             **Find a way to whenever a user inputs a username that isnt found instead of a default powershell error, place a custom error, validation to the max
             **Code getting way to long and alot of repeats, work on converting sections into functions for ease of redundancy
+            **Adjust new adduser option to take first letter of firstname and lastname to create username instead of retrieving username
