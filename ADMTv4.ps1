@@ -11,7 +11,7 @@ Function Get-Valid{
 	return $userData
 }
 
-$Password = ( ConvertTo-SecureString "Disturbed1" -AsPlainText -Force )
+$Password = ( ConvertTo-SecureString "P@ssw0rd01" -AsPlainText -Force )
 $Credential = New-Object System.Management.Automation.PSCredential ("Administrator", $Password)
 $ComputerName = "SERVER2022"
 $Temp = $true
