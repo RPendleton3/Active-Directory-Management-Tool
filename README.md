@@ -41,3 +41,14 @@ PowerShell script development for easy management of active directory environmen
             **Continue working with export csv and report creation
             **Find a way to whenever a user inputs a username that isnt found instead of a default powershell error, place a custom error, validation to the max
             **Add options to Remove user accounts and Add users to groups, find way to view current users groups before placing into new group
+
+9.30.2022 - Fixed small layout issues.
+            Setup new menu option for changing organizational units with feedback before you change the organizational unit so that you can see where the account sits 
+            and after to verify that the organizational unit has been changed.
+            
+            **Continue working with export csv and report creation
+            **Find a way to whenever a user inputs a username that isnt found instead of a default powershell error, place a custom error, validation to the max
+            **Add options to Remove user accounts and Add users to groups, find way to view current users groups before placing into new group
+            **Find a way to simplify the code again to make it easier to read
+            **Add a way to change specific parts of domain users accounts like changing address, department etc
+            
