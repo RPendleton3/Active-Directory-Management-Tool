@@ -52,3 +52,11 @@ PowerShell script development for easy management of active directory environmen
             **Find a way to simplify the code again to make it easier to read
             **Add a way to change specific parts of domain users accounts like changing address, department etc
             
+10.2.2022 - Fixed small validation errors
+            Setup new menu option, addgroup, which allows you to type in a username to get a real time list of current groups before having the ability to add to a new             group. After being added to the new group it shows the currently list of groups for the user to validate that the user is in the new group
+            
+            **Continue working with export csv and report creation
+            **Find a way to whenever a user inputs a username that isnt found instead of a default powershell error, place a custom error, validation to the max
+            **Find a way to simplify the code again to make it easier to read
+            **Add a way to change specific parts of domain users accounts like changing address, department etc
+            **I dont like the layout off the addgroup switch layout, want to rework it to pull list of all domain groups into an array and use nested loops to                       validate. Not only will it cut down on code it will be very versitile between systems an allow for placement into any and all domain groups
