@@ -68,3 +68,10 @@ PowerShell script development for easy management of active directory environmen
             **Find a way to simplify the code again to make it easier to read
             **Add a way to change specific parts of domain users accounts like changing address, department etc
             **Add a flag in addgroup to stop the user if they try to place a user into a group they are already in
+
+10.12.2022 - Had many sytax issues when setting up a function that used a .csv file. New function is working but not sure as to why. New function is a username                      validation script that pulls a list of all current domain users and compares it to the username input from the user. Also uses a nested function yo check              if return,reset,exit was entered
+
+             **Continue working with export csv and report creation
+             **Find a way to simplify the code again to make it easier to read
+             **Add a way to change specific parts of domain users accounts like changing address, department etc
+             
