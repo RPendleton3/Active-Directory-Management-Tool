@@ -75,3 +75,9 @@ PowerShell script development for easy management of active directory environmen
              **Find a way to simplify the code again to make it easier to read
              **Add a way to change specific parts of domain users accounts like changing address, department etc
              
+10.14.2022 - Added new function for username validation to all current objectives. Created two new functions for adduser, one that simply takes first and last name and              combines them but also checks all entrys for exit or return to cancel the other used that function and another validation function to retrieve list of                  current users and compares to users entry
+
+             **Continue working with export csv and report creation
+             **Find a way to simplify the code again to make it easier to read
+             **Add a way to change specific parts of domain users accounts like changing address, department etc
+             **Issue found when entering no values, need validation function to check for actual input
