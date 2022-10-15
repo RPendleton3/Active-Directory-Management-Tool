@@ -81,3 +81,9 @@ PowerShell script development for easy management of active directory environmen
              **Find a way to simplify the code again to make it easier to read
              **Add a way to change specific parts of domain users accounts like changing address, department etc
              **Issue found when entering no values, need validation function to check for actual input
+
+10.15.2022 - Added new function that detects when values are left blank, fixing the bug found last revision. Modified code to allow evertime the user enters info the                function exectutes, function also allows for reentry of data and reverification
+
+             **Continue working with export csv and report creation
+             **Find a way to simplify the code again to make it easier to read
+             **Add a way to change specific parts of domain users accounts like changing address, department etc
