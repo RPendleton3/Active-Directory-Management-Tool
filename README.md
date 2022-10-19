@@ -87,3 +87,10 @@ PowerShell script development for easy management of active directory environmen
              **Continue working with export csv and report creation
              **Find a way to simplify the code again to make it easier to read
              **Add a way to change specific parts of domain users accounts like changing address, department etc
+
+10.19.2022 - Added new menu option for removing users from groups which uses all current validation functions to verify the username is correct, the group is correct
+             that there is data entered and that user is currently part of the group you are trying to remove it from.
+                          
+             **Continue working with export csv and report creation
+             **Find a way to simplify the code again to make it easier to read
+             **Add a way to change specific parts of domain users accounts like changing address, department etc
