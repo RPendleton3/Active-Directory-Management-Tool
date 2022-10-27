@@ -94,3 +94,8 @@ PowerShell script development for easy management of active directory environmen
              **Continue working with export csv and report creation
              **Find a way to simplify the code again to make it easier to read
              **Add a way to change specific parts of domain users accounts like changing address, department etc
+
+10.27.2022 - Added new menu option for editing user account information including but not limited to first name, last name and username/samaccountname. Will be                      expanding it more in the near future to include more important information
+
+             **Continue working with export csv and report creation
+             **Find a way to simplify the code again to make it easier to read
